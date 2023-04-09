@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gif/flutter_gif.dart';
+import 'package:flutter_notebook_16th_story/chat_screen_component.dart';
 import 'communityforum.dart';
 import 'hydrationtracker.dart';
 import 'moodtracker.dart';
@@ -43,13 +43,13 @@ class MentalHealthMainScreen extends StatelessWidget {
                case 2:
               Navigator.push(
                 context,
-                  MaterialPageRoute(builder: (context) => const MentalChatComponent()),
+                  MaterialPageRoute(builder: (context) => const ChatbotScreen()),
               );
             break;
                case 3:
               Navigator.push(
                 context,
-                 MaterialPageRoute(builder: (context) => const CommunityScreen()),
+                 MaterialPageRoute(builder: (context) =>  DiscussionForumScreen()),
               );
               break;
             // add cases for other items here
