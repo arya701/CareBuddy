@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carebuddy-9usu",
+  "private_key_id": "bcf18ffe974f0620f129fdbd2057bceac7cbddf9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoyokBDE//LJ6+\n3hw8Yqx82IR5OVF6aihXWsP6ljOwRUN01xDfnj4FRyWPHdBwujSHnDKs6dU6TuyP\nWaHp3JBUqPuiYpUWS6JzVe1dNHMChxaD2V62f6NHtZWK6njwUDluU3Moj43qfxBS\nrBGJt7pIT1zp7MIlN8R0ILyh5UcPrsUMPgt5QXDuLhZMpMd5TICVVDzJmVS+C2O3\n7dFLQm2xVEXKNb4EbwyZiQq/if1dfHr1AWK4dxFMZFqTWdR6GQHbk0b+nJCqc/bW\nY02UpWmWucr19nVxbNNPY6lYyIFju4vwfw1jtWboCKaVfxS/uRa+DbV6NCwmS7fH\n4By0V5mXAgMBAAECggEAGIpR1FAuSqL5yuBPafbNWIgWQpWzI0F571wSmu/plfA2\nuC8TP0p/fpRIgVVMBTJdXsthPBicgry6J2FYaWrtpRFofG8peTNdQWLgftOYVmlo\n5u8x67CvqZux9p9+c9oGGjnnHUzkd4/VF1/4W3XV5Jt9SRlougaF+ShP+e3Jdh2t\nuiRj4WEjqeQyB+XVw4BuPnwMQGh9XswmajrTF58ocMGPPGfrwQdaJaNtSwOkTJFB\nrGu+se5Swnm/32guNX89rrsTxsztEYVrAqB6Jz7UODfQw0gW9Vy5XK6PhKfce6kw\ns767zQjnn84hG6IWRBC3t195viD2/VmZdmyMmfN10QKBgQDmQdrjMa/iOiu/J6/v\nIUYvYykX2Yc4W/wKOqykVtg6Nbiz8G8Z5l01JPQSmYnLq5zNlrES34dfnjfAVm8A\ngMmSAQVlPj3pIIuVhmZcal+QIBKqZUQE0SxUVB+MhqZLrfCB3g/BUhJtoeOicH4j\nzdHKShdgG/8isMkE2S9G//AGiQKBgQC7qXjI7Mroq/h9vbomNsaWAVfJbLb9+sJl\nZi/meFE7Fq0rAPrgKsZpXyKo98FKHIxx631kWxb0lc9T94tuyqOGzJJhxKZNztqZ\n0m7tgC+QZG1M66DxY3W8g7V8qM+CO14uc7WVx+lwD9WpYmq89jGZ9B0it0n0Uu86\nzu7xNAyXHwKBgQDNNrpHrFvuSxv8JPnnLQepaj4QlH2wXELYNwzw9rmFv6VbMZlD\nQw2lNMcW4KJv1AZPMNOmV3QGYzObBy2tDBsaNjDB1+RDpw7gd8U47lE3WW5pURF7\nHZXdno/zpXoGjwKALBJsoKHt9c+0UYAKlwA3wyrsLGeKWnb+DDbXl3kryQKBgQCp\nMVdb19ntQrcMLxV4xKPwtI9AZErr27yOjT4cjVe3bW99OSn3F7nBYOuv6YgUWH7r\nasSnyVR9+d9uNd45amta6nADw7eoqRn/23D1oj+/8Dt3QW3elKye5SSoms5T/VCh\nkuMhgpbd2Pjq+XeAnHsF8cie9x+vL2LO46kcQLAlQwKBgFN4LgaSUlySFJZsoGtr\ny6rxPpkhJUFDHIzBYhJHf+2WtaGrHFk7j3K/IjI8tEcFySHcA5XXsXIEy21LEpga\nNcN5Zp65tJwxtzUBWaNSNAwrul0VyWsqCqGkz8HI9Rr9RgrwZ6/8jdiqqdSmzQk4\nwcleKy6C5UfIiqrI4egN2/Z+\n-----END PRIVATE KEY-----\n",
+  "client_email": "carebuddy@carebuddy-9usu.iam.gserviceaccount.com",
+  "client_id": "107224422922002046818",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carebuddy%40carebuddy-9usu.iam.gserviceaccount.com"
+}

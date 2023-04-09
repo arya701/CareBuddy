@@ -1,17 +1,17 @@
-linter:
-  rules:
-    avoid_unnecessary_containers: true
-    prefer_const_constructors: true
-    always_require_non_null_named_parameters: true
+# linter:
+#   rules:
+#     avoid_unnecessary_containers: true
+#     prefer_const_constructors: true
+#     always_require_non_null_named_parameters: true
 
-analyzer:
+# analyzer:
   
-  exclude:
-    - "test/**"
-    - "build/**"
+#   exclude:
+#     - "test/**"
+#     - "build/**"
 
-pedantic:
-  include:
-    - "package:pedantic/analysis_options.yaml"
+# pedantic:
+#   include:
+#     - "package:pedantic/analysis_options.yaml"
 
 
