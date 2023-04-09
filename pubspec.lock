@@ -403,6 +403,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.6.5"
+  gh_pages:
+    dependency: "direct main"
+    description:
+      name: gh_pages
+      sha256: "18177f85446ea944aa2f11784632ef412b5b86c93c68daa68b4e0438e95641a2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.1"
+  git:
+    dependency: transitive
+    description:
+      name: git
+      sha256: "840c57646dd22c63b3305a8ef962215f0e9e9a9ba2876e6632083026b8c65f43"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.0"
   glob:
     dependency: transitive
     description:
